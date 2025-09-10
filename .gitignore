@@ -1,0 +1,9 @@
+/build
+/.env
+/.venv
+/flet-app/build
+/__pycache__
+.vscode
+/flet-app/dist
+flet_app/main.spec
+.DS_Store
